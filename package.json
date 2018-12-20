@@ -1,0 +1,27 @@
+{
+  "name": "plasma-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "contentscript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "browserify contentscript.js -o bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plasma-group/plasma-client.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plasma-group/plasma-client/issues"
+  },
+  "homepage": "https://github.com/plasma-group/plasma-client#readme",
+  "dependencies": {
+    "metamask-extension-provider": "^1.1.0",
+    "web3": "^1.0.0-beta.37"
+  },
+  "devDependencies": {
+    "browserify": "^16.2.3"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "manifest_version": 2,
+
+  "name": "Plasma Client",
+  "description": "A PG Plasma Prime client",
+  "version": "0.0.0.1",
+
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_title": "Plasma Client"
+  },
+
+  "content_scripts": [
+    {
+      "matches": [
+        "http://*/*",
+        "https://*/*"
+      ],
+      "js": [
+        "bundle.js"
+      ],
+      "run_at": "document_end",
+      "all_frames": true
+    }
+  ]
+}
