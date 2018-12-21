@@ -14,6 +14,10 @@ class PlasmaClient {
   startExit () {
     throw Error('Not implemented')
   }
+
+  getHistory (range, start, end) {
+    throw Error('Not implemented')
+  }
 }
 
 module.exports = PlasmaClient
