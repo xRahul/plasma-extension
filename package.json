@@ -1,5 +1,5 @@
 {
-  "name": "plasma-client",
+  "name": "plasma-extension",
   "version": "0.0.1",
   "description": "A PG Plasma Prime client",
   "main": "contentscript.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:plasma-group/plasma-client.git"
+    "url": "git@github.com:plasma-group/plasma-extension.git"
   },
   "keywords": [
     "plasma"
@@ -18,7 +18,7 @@
   "author": "Plasma Group",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/plasma-group/plasma-client/issues"
+    "url": "https://github.com/plasma-group/plasma-extension/issues"
   },
   "dependencies": {
     "metamask-extension-provider": "^1.1.0",
