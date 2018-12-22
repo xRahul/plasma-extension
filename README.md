@@ -1,1 +1,1 @@
-# plasma-client
+# plasma-extension
