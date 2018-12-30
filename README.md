@@ -14,7 +14,7 @@ Unlike other extensions such as [MetaMask](https://metamask.io/), `plasma-extens
 Welcome! If you're looking to contribute to `plasma-extension`, you're in the right place.
 
 ### Contributing Guide and CoC
-Plasma Group follows a [Contributing Guide and Code of Conduct](https://github.com/plasma-group/plasma-core/blob/master/.github/CONTRIBUTING.md) adapted slightly from the [Contributor Covenant](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html). All contributors are expected to read through this guide. We're here to cultivate a welcoming and inclusive contributing environment, and every new contributor needs to do their part to uphold our community standards.
+Plasma Group follows a [Contributing Guide and Code of Conduct](https://github.com/plasma-group/plasma-extension/blob/master/.github/CONTRIBUTING.md) adapted slightly from the [Contributor Covenant](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html). All contributors are expected to read through this guide. We're here to cultivate a welcoming and inclusive contributing environment, and every new contributor needs to do their part to uphold our community standards.
 
 ### Requirements and Setup
 #### Node.js
